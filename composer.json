@@ -1,0 +1,10 @@
+{
+    "name": "tavey/pay-for-laravel",
+    "authors": [
+        {
+            "name": "tavey",
+            "email": "tianwei_69@163.com"
+        }
+    ],
+    "require": {}
+}
