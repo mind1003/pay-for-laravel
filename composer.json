@@ -6,5 +6,10 @@
             "email": "tianwei_69@163.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tavey\\Pay\\": "src/"
+        }
+    }
 }
